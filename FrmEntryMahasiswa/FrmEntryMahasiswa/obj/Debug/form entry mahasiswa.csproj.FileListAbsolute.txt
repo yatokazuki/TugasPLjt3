@@ -1,0 +1,12 @@
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.exe.config
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.csprojResolveAssemblyReference.cache
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\obj\Debug\form_entry_mahasiswa.Form1.resources
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\obj\Debug\form_entry_mahasiswa.Properties.Resources.resources
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.csproj.GenerateResource.Cache
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.exe
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.pdb
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.exe
+D:\jvddddd\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.pdb
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.exe.config
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.exe
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.pdb

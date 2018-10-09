@@ -1,0 +1,12 @@
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.exe.config
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.exe
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\bin\Debug\form entry mahasiswa.pdb
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\obj\Debug\FrmEntryMahasiswa.csprojResolveAssemblyReference.cache
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\obj\Debug\form_entry_mahasiswa.Form1.resources
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\obj\Debug\form_entry_mahasiswa.Properties.Resources.resources
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\obj\Debug\FrmEntryMahasiswa.csproj.GenerateResource.Cache
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.exe
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\form entry mahasiswa\obj\Debug\form entry mahasiswa.pdb
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\FrmEntryMahasiswa\bin\Debug\form entry mahasiswa.exe.config
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\FrmEntryMahasiswa\obj\Debug\form entry mahasiswa.exe
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\Visual Studio\form entry mahasiswa\FrmEntryMahasiswa\obj\Debug\form entry mahasiswa.pdb
